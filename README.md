@@ -3,9 +3,9 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[https://www.instagram.com/_v.haase]">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href="https://www.instagram.com/_v.haase">
+      <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>     
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Valentin-Ha&style=flat-square&color=blue" alt=""/>
