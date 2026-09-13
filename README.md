@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-instagram-URL](https://www.instagram.com/_v.haase/)">
+  <a href="[https://www.instagram.com/_v.haase]">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
